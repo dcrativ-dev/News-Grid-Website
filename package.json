@@ -8,7 +8,7 @@
 	},
 	"keywords": [],
 	"author": "",
-	"homepage": "https://dcrativ-dev/newsGrid",
+	"homepage": "https://dcrativ-dev.github.io/News-Grid-Website",
 	"license": "ISC",
 	"dependencies": {
 		"gh-pages": "^3.2.3"
